@@ -10,13 +10,13 @@
 ### &nbsp;Личная информация:
 
 * &nbsp;ФИО: Бирюлин Дмитрий Михайлович
-* &nbsp;Дата рождения: 13 мар 1986
+* &nbsp;Дата рождения: Март, 1986
 * &nbsp;Гражданство: Российская Федерация
 
 ### &nbsp;Образование:
-*ОГ
-* КГУ им.Некрасова, Кострома,  Информационная безопасность, 2020 год
-* Университет "Нетология", с 2021 года по настоящее время
+* Университет "Нетология", "Android - разработчик", с 2021 года по настоящее время
+* КГУ им. Некрасова, Кострома,  "Информационная безопасность", 2020 год
+* ОГБПОУ Костромской машиностроительный техникум, "Радиоэлектроник", 2003 год
 
 ### &nbsp;Увлечения:
 * писать код )
@@ -24,14 +24,12 @@
 
 ### &nbsp;Личные качества:
 * отсутствие вредных привычек
-* энергичный
 * инициативный
 * ответственный
 * коммуникабельный
 * быстро обучаемый
 * легко вливаюсь в новый коллектив и нахожу общий язык с незнакомыми людьми
 * целеустремленный
-* настойчивый и решительный
 
 ### &nbsp;Обо мне:
 Самостоятельно изучаю языки программирования, начинал с C++ и C#, позже перешел на Java, а уже потом непосредственно на Kotlin, детально начал изучать разработку мобильных приложений под ОС Android. Нравится писать код, и все свое свободное время стараюсь посвещать этому. В данный момент прохожу курс Android-разработчик университета Нетологии с освоением таких языков как Java/Kotlin. Уверенно пользуюсь Intellij IDEA и Android Studio. Достаточно хорошо владею навыками использования систем контроля версий Git. Имею базовые знания в SQL на уровне написания простых запросов. У меня математический склад ума и хорошо развитое логическое мышление. Над задачей обычно сижу до тех пор, пока не решу. Навык английского Elementary, возможно выше, имею большой словарный запас, знаний хватает для чтения официальной документациино, но не очень хорошо воспринимаю на слух. Опыт в программировании около года в различных учебных проектах и тестовых заданиях.
@@ -50,27 +48,28 @@
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/junit4.png" title="JUnit"  alt="JUnit" width="40" height="40"/>&nbsp;
   </div>
 
+---
 
 <details>
 <summary>Статистика GitHub:</summary>
 <p align="left">
-<a href="https://github.com/mcmouse88">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mcmouse88&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/filin2hat">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=filin2hat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
 <p align="left">
-<a href="https://github.com/mcmouse88">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=mcmouse88&theme=algolia"/>
+<a href="https://github.com/filin2hat">
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=filin2hat&theme=algolia"/>
   </a>
 </p>
 <p align="left">
-<a href="https://github.com/mcmouse88">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mcmouse88&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/filin2hat">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=filin2hat&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 </details>
 
-### &nbsp;Контакты:
+---
 
 <div id="badges">
   <a href="https://www.instagram.com/filin2hat">
