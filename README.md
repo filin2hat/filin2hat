@@ -1,51 +1,26 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=filin2hat&style=flat-square&color=green" alt=""/>
- </div>
+## Привет, я Бирюлин Дмитрий
 
----
+### Обо мне
+Я андроид разработчик с фокусом на создание качественных мобильных приложений. Мои навыки включают разработку приложений с использованием современных технологий и фреймворков, а также управление жизненным циклом разработки от идеи до выпуска.
 
-### &nbsp;Личная информация:
+### Мои навыки
+- Язык программирования: Kotlin
+- Архитектурные паттерны: MVVM, Clean Architecture, Reactive Programming (Kotlin Flow)
+- Фреймворки и библиотеки: Android Jetpack (LiveData, ViewModel, Room, Navigation, WorkManager),Firebase, Retrofit, OkHttp, Dagger Hilt, Koin, Glide, Coil, Lottie, Moshi, Gson, LeakCanary
+- Тестирование: JUnit, Espresso, Mockito, MockK, Jacoco
+- Версионирование: Git, GitHub, GitLab
 
-* &nbsp;Бирюлин Дмитрий
-* &nbsp;Дата рождения: Март, 1986
+### Проекты
+- [Unsplasher](https://github.com/filin2hat/Unsplasher): Клиент-серверное приложение для использования сервиса Unsplash.
+- [Smart Alarm](https://github.com/filin2hat/SmartAlarm): Эксперементальный будильник, с расчетом времени срабатывания от времени восхода солнца в текущей геолокации.
 
-### &nbsp;Образование:
-* КГУ им. Некрасова, Кострома,  "Информационная безопасность"
-* ОГБПОУ Костромской машиностроительный техникум, "Радиоэлектроник"
+### Связь
+Вы можете связаться со мной по следующим каналам:
+- Электронная почта: [filin2hat@yandex.ru]
+- Telegram: [@filin2hat]
 
-### &nbsp;Обо мне:
-* Изучение языков программирования начинал с Java, а уже потом непосредственно перешёл на Kotlin, начал изучать разработку мобильных приложений под ОС Android. Нравится писать код, и все свое свободное время стараюсь посвещать этому. Уверенно пользуюсь Intellij IDEA и Android Studio. Достаточно хорошо владею навыками использования систем контроля версий Git. Имею базовые знания в SQL на уровне написания простых запросов. У меня абстрактный склад ума и хорошо развитое критическое мышление. Над задачей обычно сижу до тех пор, пока не решу. Опыт в программировании около года в различных учебных проектах и тестовых заданиях.
-* Навык английского Elementary, возможно выше, имею большой словарный запас, знаний хватает для чтения официальной документации, но не очень хорошо воспринимаю на слух.
-* Всю свою трудовую деятельность занимаюсь ремонтом цифровой, электронной, промышленной аппаратуры и оборудования. Работа в сфере автоматизации технических процессов.
-На данный момент занимаюсь промышленной роботизацией.
-
-
-### &nbsp;Личные качества:
-* не боюсь быть ответсвенным и проявлять инициативу
-* коммуникабельный, быстро нахожу общий язык с людьми
-* быстрая обучаемость, всю жизнь чему-нибудь учусь - развиваю навыки
-* целеустремленный, люблю решать поставленные задачи
-
-### &nbsp;Увлечения:
-* писать код )
-* велоспорт
-
-### &nbsp;Стек технологий:
-
-<div>
-  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/kotlin.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/intellij_idea.png" title="Intellij Idea" alt="Intellij Idea" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/android_studio.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/git.svg" title="Git" alt="Git " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/github.png"  title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/gradle.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/junit4.png" title="JUnit"  alt="JUnit" width="40" height="40"/>&nbsp;
-  </div>
+### Лицензия
+Вся информация на этой странице доступна по лицензии [Creative Commons Attribution 4.0 International License]([ссылка на лицензию](https://creativecommons.org/licenses/by/4.0/)).
 
 ---
 
