@@ -1,30 +1,29 @@
-## Привет, я Бирюлин Дмитрий
+## Hello, I'm Dmitry Biryulin
 
-### Обо мне
-Я андроид разработчик с фокусом на создание качественных мобильных приложений. Мои навыки включают разработку приложений с использованием современных технологий и фреймворков, а также управление жизненным циклом разработки от идеи до выпуска. Имею за плечами огромный инженерный опыт по ремонту, обслуживанию, модернизации промышленного оборудования. Так же общирные знания и опыт в сфере автоматизации производства и работы с ПЛК (PLC).
+### About me
+I am an android developer with a focus on creating quality mobile applications. My skills include developing applications using modern technologies and frameworks, as well as managing the development lifecycle from idea to release. I have a huge engineering experience in the repair, maintenance, modernization of industrial equipment. Also extensive knowledge and experience in the field of industrial automation and work with the PLC (PLC).
 
-### Мои навыки
-- Язык программирования: Kotlin
-- Архитектурные паттерны: MVVM, Clean Architecture, Reactive Programming (Kotlin Flow)
-- Фреймворки и библиотеки: Android Jetpack (LiveData, ViewModel, Room, Navigation, WorkManager),Firebase, Retrofit, OkHttp, Dagger Hilt, Koin, Glide, Coil, Lottie, Moshi, Gson, LeakCanary
-- Тестирование: JUnit, Espresso, Mockito, MockK, Jacoco
-- Версионирование: Git, GitHub, GitLab
+### My skills
+- Programming language: Kotlin
+- Architectural patterns: MVVM, Clean Architecture, Reactive Programming (Kotlin Flow)
+- Frameworks and libraries: Android Jetpack (LiveData, ViewModel, Room, Navigation, WorkManager), Firebase, Retrofit, OkHttp, Dagger Hilt, Koin, Glide, Coil, Lottie, Moshi, Gson, LeakCanary
+- Testing: JUnit, Espresso, Mockito, MockK, Jacoco
+- Versioning: Git, GitHub, GitLab
 
-### Проекты
-- [Unsplasher](https://github.com/filin2hat/Unsplasher): Клиент-серверное приложение для использования сервиса Unsplash.
-- [Smart Alarm](https://github.com/filin2hat/SmartAlarm): Эксперементальный будильник, с расчетом времени восхода солнца в текущей геопозиции.
+### Projects
+- [Unsplasher](https://github.com/filin2hat/Unsplasher): Client-server application for using the Unsplash service.
+- [Smart Alarm](https://github.com/filin2hat/SmartAlarm): An experimental alarm clock that calculates the sunrise time in the current location.
 
-### Языки
-- Английский. Базовый уровень. Имею обширный словарный запас. Могу читать техническую документацию.
+### Languages
+- English. A basic level of. I have an extensive vocabulary. I can read technical documentation.
 
-### Связь
-Вы можете связаться со мной по следующим каналам:
-- Электронная почта: [filin2hat@yandex.ru]
+### Connection
+You can contact me through the following channels:
+- E-mail: [filin2hat@yandex.ru]
 - Telegram: @filin2hat
 
-### Лицензия
-Вся информация на этой странице доступна по лицензии [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
+### License
+All information on this page is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 ---
 
 <summary>Статистика GitHub:</summary>
