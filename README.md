@@ -17,7 +17,7 @@ I am an android developer with a focus on creating quality mobile applications. 
 ### Languages
 - English. A basic level of. I have an extensive vocabulary. I can read technical documentation.
 
-### Connection
+### Contacts
 You can contact me through the following channels:
 - E-mail: [filin2hat@yandex.ru]
 - Telegram: @filin2hat
