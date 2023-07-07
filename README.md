@@ -10,12 +10,14 @@ I am an android developer with a focus on creating quality mobile applications. 
 - Testing: JUnit, Espresso, Mockito, MockK, Jacoco
 - Versioning: Git, GitHub, GitLab
 
-### Projects
+### My projects
 - [Unsplasher](https://github.com/filin2hat/Unsplasher): Client-server application for using the Unsplash service.
+- [Humblr](https://github.com/filin2hat/Redditron): Client-server application that allows users to browse and interact with content from Reddit..
 - [Smart Alarm](https://github.com/filin2hat/SmartAlarm): An experimental alarm clock that calculates the sunrise time in the current location.
 
 ### Languages
 - English. A basic level of. I have an extensive vocabulary. I can read technical documentation.
+- Russian. Native language.
 
 ### Contacts
 You can contact me through the following channels:
