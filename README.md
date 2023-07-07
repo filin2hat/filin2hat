@@ -9,6 +9,8 @@ I am an android developer with a focus on creating quality mobile applications. 
 - Frameworks and libraries: Android Jetpack (LiveData, ViewModel, Room, Navigation, WorkManager), Firebase, Retrofit, OkHttp, Dagger Hilt, Koin, Glide, Coil, Lottie, Moshi, Gson, LeakCanary
 - Testing: JUnit, Espresso, Mockito, MockK, Jacoco
 - Versioning: Git, GitHub, GitLab
+- Navigation: YandexMapKit
+- Others: CustomView, AlarmManager
 
 ### My projects
 - [Unsplasher](https://github.com/filin2hat/Unsplasher): Client-server application for using the Unsplash service.
