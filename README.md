@@ -13,8 +13,9 @@ I am an android developer with a focus on creating quality mobile applications. 
 - Others: CustomView, AlarmManager
 
 ### My projects
-- [Unsplasher](https://github.com/filin2hat/Unsplasher): Client-server application for using the Unsplash service.
-- [Humblr](https://github.com/filin2hat/Redditron): Client-server application that allows users to browse and interact with content from Reddit..
+- [PokemonLib](https://github.com/filin2hat/Pokemon-Lib): A client/server application for Pokémon fans using Jetpack Compose and a RESTful API.
+- [Unsplasher](https://github.com/filin2hat/Unsplasher): Client/server application for using the Unsplash service.
+- [Humblr](https://github.com/filin2hat/Redditron): Client/server application that allows users to browse and interact with content from Reddit..
 - [Smart Alarm](https://github.com/filin2hat/SmartAlarm): An experimental alarm clock that calculates the sunrise time in the current location.
 
 ### Languages
