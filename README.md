@@ -6,7 +6,7 @@ I am an android developer with a focus on creating quality mobile applications. 
 ### My skills
 - Programming language: Kotlin
 - Architectural patterns: MVVM, Clean Architecture, Reactive Programming (Kotlin Flow)
-- Frameworks and libraries: Android Jetpack (LiveData, ViewModel, Room, Navigation, WorkManager), Firebase, Retrofit, OkHttp, Dagger Hilt, Koin, Glide, Coil, Lottie, Moshi, Gson, LeakCanary
+- Frameworks and libraries: Android Jetpack Compose, LiveData, ViewModel, Room, Navigation, WorkManager, Firebase, Retrofit, OkHttp, Dagger Hilt, Koin, Glide, Coil, Lottie, Moshi, Gson, LeakCanary
 - Testing: JUnit, Espresso, Mockito, MockK, Jacoco
 - Versioning: Git, GitHub, GitLab
 - Navigation: YandexMapKit
