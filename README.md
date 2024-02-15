@@ -1,7 +1,7 @@
 ## Hello, I'm Dmitry Biryulin
 
 ### About me
-I am an android developer with a focus on creating quality mobile applications. My skills include developing applications using modern technologies and frameworks, as well as managing the development lifecycle from idea to release. I have a huge engineering experience in the repair, maintenance, modernization of industrial equipment. Also extensive knowledge and experience in the field of industrial automation and work with the PLC (PLC).
+I am an android developer with a focus on creating quality mobile applications. My skills include developing applications using modern technologies and frameworks, as well as managing the development lifecycle from idea to release.
 
 ### My skills
 - Programming language: Kotlin
